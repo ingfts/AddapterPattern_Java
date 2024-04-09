@@ -1,8 +1,8 @@
-public class GameAddapter implements SoloGame{
+public class GameAdapter implements SoloGame{
 
  private Game game;
 
- public GameAddapter (Game game){
+ public GameAdapter (Game game){
      this.game = game;
 
  }
